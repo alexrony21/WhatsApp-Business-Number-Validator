@@ -1,5 +1,7 @@
 # WhatsApp Business Number Validator
 
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/WhatsApp-Business-Number-Validator/main/WhatsApp_Business_Number_Validator.png)
+
 ## Features:
 1. **Accurate Checking**: Validate WhatsApp numbers with precision.
 2. **Business Status Check**: Determine if a number is registered as a WhatsApp Business account.
