@@ -1,6 +1,6 @@
 # WhatsApp Business Number Validator
 
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/WhatsApp-Business-Number-Validator/main/WhatsApp_Business_Number_Validator.png)
+![image](https://raw.githubusercontent.com/alexrony21/WhatsApp-Business-Number-Validator/main/WhatsApp_Business_Number_Validator.png)
 
 ## Features:
 1. **Accurate Checking**: Validate WhatsApp numbers with precision.
@@ -11,6 +11,11 @@
 
 ---
 
-If you're interested in purchasing this tool, please contact me via Telegram: [@alexrony21](https://t.me/alexrony21)
+If you're interested in purchasing this tool, please contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
+
+---
 
 Thank you!
